@@ -1,8 +1,8 @@
 ## Description
 
-The project contents were created using the following software: AutoCAD & Sketchup Pro. 
-
 This is a 3D concept for a modern office. 
+
+The project contents were created using the following software: AutoCAD & Sketchup Pro. 
 
 </br>
 
